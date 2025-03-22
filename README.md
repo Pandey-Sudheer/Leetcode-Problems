@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0189-rotate-array) |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
