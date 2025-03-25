@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0136-single-number) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -66,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
