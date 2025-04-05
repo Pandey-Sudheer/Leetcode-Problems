@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,4 +81,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
