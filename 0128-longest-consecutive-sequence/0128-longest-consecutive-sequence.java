@@ -15,6 +15,7 @@ class Solution {
         }
 
         // find the longest sequences
+        int maxcnt =1;
         for(int it:set)
         {
             // if it is starting number
@@ -22,15 +23,21 @@ class Solution {
             {
                 // find consequetive numbers
                 int cnt = 1;
-                int x = it;
-                while(set.contains(x+1))
+                // int x = it;
+                while(set.contains(it+1))
                 {
-                    x = x+1;
-                    cnt = cnt+1;
+                    // x = x+1;
+                    it++;
+                    cnt++;
+                    // cnt = cnt+1;
                 }
-                longest = Math.max(longest,cnt);
+                if(cnt>maxcnt)
+                {
+                    maxcnt = cnt;
+                }
+                // longest = Math.max(longest,cnt);
             }
         }
-         return longest;
+         return maxcnt;
     }
 }
