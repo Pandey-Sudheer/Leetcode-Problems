@@ -31,12 +31,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
+| [0792-binary-search](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0792-binary-search) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
