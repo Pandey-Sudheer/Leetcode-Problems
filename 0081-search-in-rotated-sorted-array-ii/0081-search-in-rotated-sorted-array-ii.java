@@ -17,7 +17,7 @@ class Solution {
                 end--;
                 continue;
             }
-            // 
+            
             if( nums[strt] <= nums[mid])
             {
             if( target >= nums[strt] && nums[mid] >= target)
