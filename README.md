@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0812-rotate-string](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -144,4 +145,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
