@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0812-rotate-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
