@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0268-missing-number) |
+| [1922-count-good-numbers](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/1922-count-good-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 ## Array
 |  |
@@ -161,4 +162,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
