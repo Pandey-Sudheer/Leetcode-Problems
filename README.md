@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1922-count-good-numbers](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/1922-count-good-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0078-subsets](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/1922-count-good-numbers) |
 ## Backtracking
 |  |
