@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3637-trionic-array-i](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/3640-trionic-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0907-sum-of-subarray-minimums) |
+| [3640-trionic-array-ii](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/3640-trionic-array-ii) |
 ## Stack
 |  |
 | ------- |
