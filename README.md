@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3379-transformed-array](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/3379-transformed-array) |
 | [3637-trionic-array-i](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/3640-trionic-array-ii) |
 ## Binary Search
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3379-transformed-array](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/3379-transformed-array) |
 ## Matrix
 |  |
 | ------- |
