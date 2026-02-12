@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Bit Manipulation
 |  |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [3713-longest-balanced-substring-i](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
+| [3713-longest-balanced-substring-i](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
 ## Greedy
 |  |
 | ------- |
@@ -234,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0204-count-primes](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0204-count-primes) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
 ## Number Theory
 |  |
 | ------- |
