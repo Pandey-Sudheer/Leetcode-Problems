@@ -6,14 +6,14 @@ public:
 
         for (int i = 0; i < n; i++) {
             vector<int> freq(26, 0);
-            int distinct = 0;
+            int uniquecnt = 0;
             int maxFreq = 0;
 
             for (int j = i; j < n; j++) {
                 int idx = s[j] - 'a';
 
                 if (freq[idx] == 0)
-                    distinct++;
+                    uniquecnt++;
 
                 freq[idx]++;
                 maxFreq = max(maxFreq, freq[idx]);
@@ -21,7 +21,7 @@ public:
                 int len = j - i + 1;
 
                 // Balanced condition
-                if (len == distinct * maxFreq) {
+                if (len == uniquecnt * maxFreq) {
                     ans = max(ans, len);
                 }
             }
