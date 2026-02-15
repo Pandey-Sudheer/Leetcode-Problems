@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0231-power-of-two) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0231-power-of-two) |
@@ -182,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0067-add-binary) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3379-transformed-array](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/3379-transformed-array) |
 ## Matrix
@@ -201,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0242-valid-anagram) |
