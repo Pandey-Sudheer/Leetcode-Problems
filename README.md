@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0799-champagne-tower](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0799-champagne-tower) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3640-trionic-array-ii](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/3640-trionic-array-ii) |
