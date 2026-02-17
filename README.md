@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0268-missing-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/1922-count-good-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 ## Array
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0930-binary-subarrays-with-sum](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/1646-kth-missing-positive-number) |
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/3714-longest-balanced-substring-ii) |
@@ -270,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1652-defuse-the-bomb](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/1652-defuse-the-bomb) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/3634-minimum-removals-to-balance-array) |
@@ -298,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [3714-longest-balanced-substring-ii](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
