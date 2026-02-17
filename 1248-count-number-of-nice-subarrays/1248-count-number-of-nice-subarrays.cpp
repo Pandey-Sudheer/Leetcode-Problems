@@ -1,25 +1,22 @@
 class Solution {
 public:
     int numberOfSubarrays(vector<int>& nums, int k) {
-        
-        int ans = 0;  // total valid subarrays
-        
-        unordered_map<int,int> cnt;
-        cnt[0] = 1;   // 0 odd seen once (base case)
-        
-        int odd = 0;  // prefix count of odd numbers
-        
-        for(int i = 0; i < nums.size(); i++){
-            
-            if(nums[i] % 2 == 1) 
-                odd++;  // increase odd count
-            
-            ans += cnt[odd - k];  
-            // if previous prefix had (odd-k) odds → subarray has k odds
-            
-            cnt[odd]++;  // store current prefix
+        int n = nums.size();
+        vector<int>cnt( n+1, 0);
+        // base case: before array starts, odd count = 0 occurred once
+        cnt[0] = 1;
+        int t =0;
+        int ans = 0;
+        for(int v : nums)
+        {
+            // v & 1 → 1 if v is odd
+            t += v & 1;
+            if( t-k >= 0)
+            {
+                ans += cnt[t-k];
+            }
+            cnt[t]++;
         }
-        
         return ans;
     }
 };
