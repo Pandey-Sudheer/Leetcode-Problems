@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sorting
 |  |
