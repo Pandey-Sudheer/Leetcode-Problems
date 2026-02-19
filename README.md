@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0696-count-binary-substrings](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0696-count-binary-substrings](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [0812-rotate-string](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0812-rotate-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
