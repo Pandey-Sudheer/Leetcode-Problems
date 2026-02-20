@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0761-special-binary-string](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0761-special-binary-string) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/3634-minimum-removals-to-balance-array) |
 ## Divide and Conquer
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0761-special-binary-string](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0761-special-binary-string) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Counting
 |  |
@@ -220,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0696-count-binary-substrings](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0761-special-binary-string) |
 | [0812-rotate-string](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/0812-rotate-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sudheer0746/Leetcode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
